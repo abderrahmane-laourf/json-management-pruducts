@@ -1,0 +1,272 @@
+[
+    {
+      "title": "Ultra HD 4K Smart TV",
+      "price": "699.99",
+      "taxes": "55.99",
+      "count": "5",
+      "category": "Electronics",
+      "total": "755.98",
+      "discount": "10",
+      "ads": "20.00"
+    },
+    {
+      "title": "Noise-Cancelling Wireless Headphones",
+      "price": "249.99",
+      "taxes": "20.00",
+      "count": "10",
+      "category": "Electronics",
+      "total": "269.99",
+      "discount": "5",
+      "ads": "10.00"
+    },
+    {
+      "title": "High-Performance Gaming Laptop",
+      "price": "1499.99",
+      "taxes": "119.99",
+      "count": "3",
+      "category": "Electronics",
+      "total": "1619.98",
+      "discount": "15",
+      "ads": "50.00"
+    },
+    {
+      "title": "Professional DSLR Camera",
+      "price": "999.99",
+      "taxes": "80.00",
+      "count": "7",
+      "category": "Electronics",
+      "total": "1079.99",
+      "discount": "0",
+      "ads": "30.00"
+    },
+    {
+      "title": "Ergonomic Office Chair",
+      "price": "199.99",
+      "taxes": "16.00",
+      "count": "12",
+      "category": "Furniture",
+      "total": "215.99",
+      "discount": "5",
+      "ads": "5.00"
+    },
+    {
+      "title": "Modern Coffee Table",
+      "price": "149.99",
+      "taxes": "12.00",
+      "count": "8",
+      "category": "Furniture",
+      "total": "161.99",
+      "discount": "0",
+      "ads": "5.00"
+    },
+    {
+      "title": "Luxury Sofa Set",
+      "price": "1999.99",
+      "taxes": "160.00",
+      "count": "2",
+      "category": "Furniture",
+      "total": "2159.99",
+      "discount": "20",
+      "ads": "70.00"
+    },
+    {
+      "title": "Stainless Steel Cookware Set",
+      "price": "299.99",
+      "taxes": "24.00",
+      "count": "6",
+      "category": "Kitchen",
+      "total": "323.99",
+      "discount": "10",
+      "ads": "10.00"
+    },
+    {
+      "title": "Smart Refrigerator with Touchscreen",
+      "price": "1299.99",
+      "taxes": "104.00",
+      "count": "4",
+      "category": "Kitchen",
+      "total": "1403.99",
+      "discount": "5",
+      "ads": "40.00"
+    },
+    {
+      "title": "High-Efficiency Washing Machine",
+      "price": "599.99",
+      "taxes": "48.00",
+      "count": "9",
+      "category": "Appliances",
+      "total": "647.99",
+      "discount": "0",
+      "ads": "20.00"
+    },
+    {
+      "title": "Robot Vacuum Cleaner",
+      "price": "349.99",
+      "taxes": "28.00",
+      "count": "15",
+      "category": "Appliances",
+      "total": "377.99",
+      "discount": "10",
+      "ads": "15.00"
+    },
+    {
+      "title": "The Lord of the Rings Trilogy",
+      "price": "49.99",
+      "taxes": "4.00",
+      "count": "20",
+      "category": "Books",
+      "total": "53.99",
+      "discount": "0",
+      "ads": "2.00"
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "price": "9.99",
+      "taxes": "0.80",
+      "count": "25",
+      "category": "Books",
+      "total": "10.79",
+      "discount": "0",
+      "ads": "1.00"
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": "19.99",
+      "taxes": "1.60",
+      "count": "18",
+      "category": "Books",
+      "total": "21.59",
+      "discount": "5",
+      "ads": "2.00"
+    },
+    {
+      "title": "Becoming",
+      "price": "14.99",
+      "taxes": "1.20",
+      "count": "22",
+      "category": "Books",
+      "total": "16.19",
+      "discount": "0",
+      "ads": "1.50"
+    },
+    {
+      "title": "Men's Running Shoes",
+      "price": "79.99",
+      "taxes": "6.40",
+      "count": "14",
+      "category": "Apparel",
+      "total": "86.39",
+      "discount": "10",
+      "ads": "5.00"
+    },
+    {
+      "title": "Women's Yoga Pants",
+      "price": "49.99",
+      "taxes": "4.00",
+      "count": "30",
+      "category": "Apparel",
+      "total": "53.99",
+      "discount": "5",
+      "ads": "3.00"
+    },
+    {
+      "title": "Classic Leather Watch",
+      "price": "149.99",
+      "taxes": "12.00",
+      "count": "16",
+      "category": "Accessories",
+      "total": "161.99",
+      "discount": "0",
+      "ads": "7.00"
+    },
+    {
+      "title": "Diamond Stud Earrings",
+      "price": "499.99",
+      "taxes": "40.00",
+      "count": "8",
+      "category": "Jewelry",
+      "total": "539.99",
+      "discount": "15",
+      "ads": "25.00"
+    },
+    {
+      "title": "Gold Necklace",
+      "price": "299.99",
+      "taxes": "24.00",
+      "count": "11",
+      "category": "Jewelry",
+      "total": "323.99",
+      "discount": "5",
+      "ads": "15.00"
+    },
+    {
+      "title": "Organic Cotton Bed Sheets",
+      "price": "79.99",
+      "taxes": "6.40",
+      "count": "13",
+      "category": "Bedding",
+      "total": "86.39",
+      "discount": "0",
+      "ads": "4.00"
+    },
+    {
+      "title": "Memory Foam Pillow",
+      "price": "39.99",
+      "taxes": "3.20",
+      "count": "24",
+      "category": "Bedding",
+      "total": "43.19",
+      "discount": "10",
+      "ads": "2.00"
+    },
+    {
+      "title": "Plush Throw Blanket",
+      "price": "29.99",
+      "taxes": "2.40",
+      "count": "28",
+      "category": "Bedding",
+      "total": "32.39",
+      "discount": "0",
+      "ads": "1.50"
+    },
+    {
+      "title": "Board Game Collection",
+      "price": "99.99",
+      "taxes": "8.00",
+      "count": "9",
+      "category": "Games",
+      "total": "107.99",
+      "discount": "5",
+      "ads": "6.00"
+    },
+    {
+      "title": "Wireless Gaming Mouse",
+      "price": "59.99",
+      "taxes": "4.80",
+      "count": "17",
+      "category": "Games",
+      "total": "64.79",
+      "discount": "0",
+      "ads": "3.00"
+    },
+    {
+      "title": "Portable Bluetooth Speaker",
+      "price": "79.99",
+      "taxes": "6.40",
+      "count": "21",
+      "category": "Electronics",
+      "total": "86.39",
+      "discount": "10",
+      "ads": "4.00"
+    },
+    {
+      "title": "Action Camera",
+      "price": "199.99",
+      "taxes": "16.00",
+      "count": "6",
+      "category": "Electronics",
+      "total": "215.99",
+      "discount": "0",
+      "ads": "8.00"
+    }
+  ]
