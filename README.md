@@ -1,1 +1,1 @@
-🛒 JSON data fo product management app. 📦
+🛒 JSON data for product management app. 📦
